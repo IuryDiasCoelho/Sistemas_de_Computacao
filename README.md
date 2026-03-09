@@ -238,3 +238,5 @@ O sistema roda dentro de contêineres isolados, garantindo que picos de acesso n
 
 **Camada de Dados (SSD NVMe):**  
 Armazenamento de alta performance para entrega imediata de PDFs, eliminando gargalos de leitura física.
+
+![Arquitetura.png](Arquitetura.png)
